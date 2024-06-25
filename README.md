@@ -4,6 +4,7 @@ Final project in Dart using flutter for the ESOF curricular unit.
 - Date: 2nd Year, 2nd Semester
 - Course: Engenharia de Software | Software Engineering
 - Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520322
+- API key was hidden for security purposes.
 ## Disclaimer
 This repository, along with other FEUP-COURSE* repositories on GitHub, contains school projects from the respective courses at FEUP. The code provided here is intended solely for educational purposes. I disclaim any responsibility or liability for any faults, inconsistencies, or issues in the code.
 
